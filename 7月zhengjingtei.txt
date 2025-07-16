@@ -55,6 +55,10 @@
     • 各种抽奖: 15.60元(17个)
     • 金豆兑换: 18.00元(6个)
     • 等级权益: 18.00元(4个)
+  应付详情:
+    • 金豆兑换: 7.50元
+    • 星播客: 0.00元
+    • 需付款: 7.50元
 
 详情链接：
 Gitee: https://gitee.com/zhpphz/dxdhxq/raw/master/7月zhengjingtei.txt
