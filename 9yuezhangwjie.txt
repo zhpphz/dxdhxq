@@ -88,5 +88,5 @@
     • 需付款: 17.50元
 
 详情链接：
-Gitee: https://gitee.com/zhpphz/dxdhxq/raw/master/9yuezhangwjie.txt
-Github: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuezhangwjie.txt
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/9yuezhangwjie.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuezhangwjie.txt
