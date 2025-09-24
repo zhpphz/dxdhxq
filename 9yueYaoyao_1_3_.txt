@@ -5,13 +5,13 @@
   总计：10.00元 (1条记录)
 --------------------
 
-▷ 用户: 199****4541
-    2025-09-05 16:26:49 各种抽奖 (2.00元)
+▷ 用户: 173****6048
+    2025-09-05 16:22:24 各种抽奖 (2.00元)
   总计：2.00元 (1条记录)
 --------------------
 
-▷ 用户: 173****6048
-    2025-09-05 16:22:24 各种抽奖 (2.00元)
+▷ 用户: 199****4541
+    2025-09-05 16:26:49 各种抽奖 (2.00元)
   总计：2.00元 (1条记录)
 --------------------
 
@@ -27,5 +27,5 @@
     • 需付款: 4.67元
 
 详情链接：
-Gitee: https://gitee.com/zhpphz/dxdhxq/raw/master/9yueYaoyao_1_3_.txt
-Github: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yueYaoyao_1_3_.txt
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/9yueYaoyao_1_3_.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yueYaoyao_1_3_.txt
