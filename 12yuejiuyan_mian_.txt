@@ -1,0 +1,21 @@
+✦ 昵称组: 旧言(免)
+
+▷ 用户: 133****4220
+    2025-12-01 00:01:11 各种抽奖 (5.00元)
+  总计：5.00元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 2个
+  • 查询成功: 1个
+  • 总金额: 5.00元
+  各类型明细:
+    • 各种抽奖: 5.00元(1个)
+  应付详情:
+    • 综合兑换: 0.00元
+    • 星播客: 0.00元
+    • 需付款: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yuejiuyan_mian_.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yuejiuyan_mian_.txt
