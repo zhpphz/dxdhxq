@@ -1,0 +1,21 @@
+✦ 昵称组: 一天到晚游泳的鱼
+
+▷ 用户: 159****1028
+    2025-12-01 00:01:26 各种抽奖 (0.20元)
+  总计：0.20元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 12个
+  • 查询成功: 1个
+  • 总金额: 0.20元
+  各类型明细:
+    • 各种抽奖: 0.20元(1个)
+  应付详情:
+    • 综合兑换: 0.00元
+    • 星播客: 0.00元
+    • 需付款: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yueyitiandaowanyouyongdeyu.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yueyitiandaowanyouyongdeyu.txt
