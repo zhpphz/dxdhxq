@@ -44,5 +44,5 @@
     • 需付款总计: 0.00元
 
 详情链接：
-国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yueshaozhongshen.txt
-国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yueshaozhongshen.txt
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yueshaozhongshen_mian_.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yueshaozhongshen_mian_.txt
