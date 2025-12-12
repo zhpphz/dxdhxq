@@ -46,9 +46,9 @@
   • 总金额: 50.34元
   各类型明细:
     • 星播客: 28.00元(12个)
-    • 金豆兑换: 1.50元(2个)
-    • 各种抽奖: 13.84元(6个)
     • 等级权益: 7.00元(3个)
+    • 各种抽奖: 13.84元(6个)
+    • 金豆兑换: 1.50元(2个)
   应付详情:
     • 综合兑换明细:
       - 金豆兑换: 0.50元
@@ -58,5 +58,5 @@
     • 需付款总计: 7.45元
 
 详情链接：
-国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yuexingchendahai.txt
-国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yuexingchendahai.txt
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yuexingchendahai_-boke__1_3_.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yuexingchendahai_-boke__1_3_.txt
