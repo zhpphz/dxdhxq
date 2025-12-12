@@ -1,4 +1,5 @@
-✦ 昵称组: 我到了(1/3)
+✦ 昵称组: 我到了 (原昵称: 我到了(1/3))
+  规则: 比例1/3
 
 ▷ 用户: 177****1344
     2025-12-02 00:01:36 各种抽奖 (0.10元)
@@ -118,15 +119,18 @@
   • 查询成功: 12个
   • 总金额: 105.36元
   各类型明细:
-    • 星播客: 42.00元(22个)
     • 各种抽奖: 31.36元(29个)
+    • 星播客: 42.00元(22个)
     • 金豆兑换: 22.00元(12个)
     • 等级权益: 10.00元(2个)
   应付详情:
-    • 综合兑换: 21.12元
+    • 综合兑换明细:
+      - 金豆兑换: 7.33元
+      - 等级权益: 3.33元
+      - 各种抽奖: 10.45元
     • 星播客: 14.00元
-    • 需付款: 35.12元
+    • 需付款总计: 35.12元
 
 详情链接：
-国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yuewodaole_1_3_.txt
-国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yuewodaole_1_3_.txt
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yuewodaole.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yuewodaole.txt
