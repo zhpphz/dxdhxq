@@ -1,0 +1,21 @@
+✦ 昵称组: 邂逅烂漫玫瑰Q
+  规则: 完全免付
+
+▷ 用户: 190****7466
+    2025-12-15 00:02:15 各种抽奖 (0.20元)
+  总计：0.20元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 1个
+  • 查询成功: 1个
+  • 总金额: 0.20元
+  各类型明细:
+    • 各种抽奖: 0.20元(1个)
+  应付详情:
+    • 完全免付，无需付款
+    • 需付款总计: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/12yuexiehoulanmanmeiguiQ.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/12yuexiehoulanmanmeiguiQ.txt
