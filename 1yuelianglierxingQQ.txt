@@ -1,0 +1,21 @@
+✦ 昵称组: 量力而行QQ
+  规则: 完全免付
+
+▷ 用户: 153****6761
+    2026-01-01 00:00:43 各种抽奖 (0.50元)
+  总计：0.50元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 2个
+  • 查询成功: 1个
+  • 总金额: 0.50元
+  各类型明细:
+    • 各种抽奖: 0.50元(1个)
+  应付详情:
+    • 完全免付，无需付款
+    • 需付款总计: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/1yuelianglierxingQQ.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/1yuelianglierxingQQ.txt
