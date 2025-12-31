@@ -1,0 +1,21 @@
+✦ 昵称组: 平静QQ
+  规则: 完全免付
+
+▷ 用户: 199****5987
+    2026-01-01 00:00:42 各种抽奖 (0.10元)
+  总计：0.10元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 2个
+  • 查询成功: 1个
+  • 总金额: 0.10元
+  各类型明细:
+    • 各种抽奖: 0.10元(1个)
+  应付详情:
+    • 完全免付，无需付款
+    • 需付款总计: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/1yuepingjingQQ.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/1yuepingjingQQ.txt
