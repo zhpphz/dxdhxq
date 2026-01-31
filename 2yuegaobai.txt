@@ -1,0 +1,19 @@
+✦ 昵称组: 告白
+  规则: 比例1/3
+
+■ 分组统计 ■
+  • 用户数量: 1个
+  • 查询成功: 0个
+  • 总金额: 0.00元
+  各类型明细:
+  应付详情:
+    • 综合兑换明细:
+      - 金豆兑换: 0.00元
+      - 等级权益: 0.00元
+      - 各种抽奖: 0.00元
+      - 星 播 客: 0.00元
+    • 需付款总计: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/2yuegaobai.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/2yuegaobai.txt
