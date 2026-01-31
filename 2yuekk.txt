@@ -1,0 +1,21 @@
+✦ 昵称组: kk
+  规则: 完全免付
+
+▷ 用户: 139****2869
+    2026-02-01 00:00:02 等级权益 (5.00元)
+  总计：5.00元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 25个
+  • 查询成功: 1个
+  • 总金额: 5.00元
+  各类型明细:
+    • 等级权益: 5.00元(1个)
+  应付详情:
+    • 完全免付，无需付款
+    • 需付款总计: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/2yuekk.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/2yuekk.txt
