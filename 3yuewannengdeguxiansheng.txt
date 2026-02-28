@@ -1,0 +1,26 @@
+✦ 昵称组: 万能的顾先生
+  规则: 比例1/3
+
+▷ 用户: 193****8718
+    2026-03-01 00:00:08 等级权益 (3.00元)
+  总计：3.00元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 4个
+  • 查询成功: 1个
+  • 总金额: 3.00元
+  各类型明细:
+    • 等级权益: 3.00元(1个)
+  应付详情:
+    • 综合兑换明细:
+      - 金豆兑换: 0.00元
+      - 等级权益: 1.00元
+      - 各种抽奖: 0.00元
+      - 星 播 客: 0.00元
+      - 智铃红包: 0.00元
+    • 需付款总计: 1.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/3yuewannengdeguxiansheng.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/3yuewannengdeguxiansheng.txt
