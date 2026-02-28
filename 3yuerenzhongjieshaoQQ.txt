@@ -1,0 +1,21 @@
+✦ 昵称组: 人中杰少QQ
+  规则: 完全免付
+
+▷ 用户: 189****1503
+    2026-03-01 00:41:40 智铃红包 (2.02元)
+  总计：2.02元 (1条记录)
+--------------------
+
+■ 分组统计 ■
+  • 用户数量: 4个
+  • 查询成功: 1个
+  • 总金额: 2.02元
+  各类型明细:
+    • 智铃红包: 2.02元(1个)
+  应付详情:
+    • 完全免付，无需付款
+    • 需付款总计: 0.00元
+
+详情链接：
+国内: https://gitee.com/zhpphz/dxdhxq/raw/master/3yuerenzhongjieshaoQQ.txt
+国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/3yuerenzhongjieshaoQQ.txt
