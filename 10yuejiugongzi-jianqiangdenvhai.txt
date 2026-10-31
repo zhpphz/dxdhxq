@@ -39,10 +39,10 @@
       - 等级权益: 3.00元
       - 各种抽奖: 1.81元
       - 电信抽奖: 0.00元
-      - 星 播 客: 9.67元
+      - 星 播 客: 14.50元
       - 智铃红包: 0.00元
       - 智铃余额: 0.00元
-    • 需付款总计: 14.48元
+    • 需付款总计: 19.31元
 
 详情链接：
 国内: https://gitee.com/zhpphz/dxdhxq/raw/master/10yuejiugongzi-jianqiangdenvhai.txt
